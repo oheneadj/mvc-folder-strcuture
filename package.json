@@ -1,0 +1,13 @@
+{
+  "name": "techspot-api",
+  "version": "1.0.0",
+  "description": "MVC folder structure",
+  "main": "index.js",
+  "author": "Ohene Adjei",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
